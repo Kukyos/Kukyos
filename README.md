@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kukyos.kukyos">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+A M+ Armaan....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+Stalker;This+is+Armaan+:D)](https://git.io/typing-svg)
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/armaansucks" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
