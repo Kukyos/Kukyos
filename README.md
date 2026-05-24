@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm A M Armaan, Game Dev and a jack of all trades
+  Hi, I'm A M Armaan, Game Dev
   <br>
   <br>
   🔬 I'm currently studying for my degree at karunya University, Department of Computer science and Engineering
