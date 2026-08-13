@@ -1,10 +1,10 @@
 <div align="center">
 
-<br/>
+<a href="https://github.com/kukyos?tab=repositories"><img src="assets/heartbeat.jpeg" width="430" alt="building shit is the reason this heart still beats" /></a>
 
 # A M Armaan
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=building+shit+is+why+this+heart+beats;full-stack+%2F+AI+%2F+physics+sims;ships+first%2C+names+repos+later" alt="" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=CSE+%40+Karunya+University;full-stack+%2F+AI+%2F+simulation;ships+first%2C+names+repos+later" alt="" />
 
 <br/>
 
@@ -17,7 +17,6 @@
 </div>
 
 ```
-CSE undergrad at Karunya University.
 I build the thing before I decide what it's called.
 
 now      agentic AI systems, simulation work
