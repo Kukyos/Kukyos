@@ -1,108 +1,96 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kukyos.kukyos">
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There,+Stalker!+👋;This+is+Armaan+:D;Cool+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<br/>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/armaansucks" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm A M Armaan, Game Dev
-  <br>
-  <br>
-  🔬 I'm currently studying for my degree at karunya University, Department of Computer science and Engineering
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/kukyos/kukyos/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: amohamed@karunya.edu.in">amohamed@karunya.edu.in</a>
-</p>
+# A M Armaan
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
-<hr>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=building+shit+is+why+this+heart+beats;full-stack+%2F+AI+%2F+physics+sims;ships+first%2C+names+repos+later" alt="" />
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kukyos&theme=react&border=61dafb&hide_border=true" alt="kukyos" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kukyos&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukyos&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kukyos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<a href="https://www.linkedin.com/in/armaansucks"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=c9d1d9&labelColor=0d1117" alt="linkedin"></a>
+<a href="mailto:amohamed@karunya.edu.in"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=maildotru&logoColor=c9d1d9&labelColor=0d1117" alt="email"></a>
+<a href="https://github.com/kukyos?tab=repositories"><img src="https://img.shields.io/badge/repos-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117" alt="repos"></a>
 
-<hr>
+<br/>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Kukyos/GroundStateFinder" title="Ground State Detector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=GroundStateFinder&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/kukyos/AccessNull" title="AccessNull"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=AccessNull&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/kukyos/ForeHeadDetector" title="ForeHeadDetector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=ForeHeadDetector&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/kukyos/NullSpace" title="NullSpace"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=NullSpace&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/kukyos/NullChat" title="NullChat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=NullChat&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/kukyos/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kukyos&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/kukyos?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+```
+CSE undergrad at Karunya University.
+I build the thing before I decide what it's called.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+now      agentic AI systems, simulation work
+like     problems whose answer isn't in a tutorial
+             ground states, black holes, fish schooling
+built    client tooling for Blackstone Elevators
+             a full hackathon platform, end to end
+reach    amohamed@karunya.edu.in
+```
+
+<br/>
+
+<table>
+<tr><td valign="top" width="50%">
+
+**languages**
+```
+TypeScript   Python   C   C++   C#
+JavaScript   HTML     CSS
+```
+
+</td><td valign="top" width="50%">
+
+**tools**
+```
+React  Next.js  Tailwind  Node  Flask
+Django  Unity  Postgres  MySQL  Vercel
+```
+
+</td></tr>
+</table>
+
+<br/>
+
+## built
+
+| | | | |
+|---|---|---|---|
+| **Simathon** | a hackathon run end to end — [entry portal](https://github.com/kukyos/simathon), [project gallery](https://github.com/kukyos/SimGallery), [judging system](https://github.com/kukyos/JudgingSimathon) | `TypeScript` | [live](https://simathon.vercel.app) |
+| **[Lancist](https://github.com/kukyos/Lancist)** | outreach bot for the Oryn agency — scrapes local SMB leads, audits their sites, drafts and sends the cold email | `Python` | |
+| **[Ecat](https://github.com/kukyos/Ecat)** · **[blackstoneforms](https://github.com/kukyos/blackstoneforms)** | e-catalogue and digital form filler, built for Blackstone Elevators | `TypeScript` | [live](https://ecat-one.vercel.app) |
+| **[NullChat](https://github.com/kukyos/NullChat)** | chatbot that sees, speaks, and handles any language you throw at it | `Python` | |
+| **[GlobeTrotter](https://github.com/kukyos/GlobeTrotter)** | trip planner, Odoo hackathon | `TypeScript` | [live](https://globe-trotter-brown.vercel.app) |
+| **[Synapse](https://github.com/kukyos/Synapse)** | Weboin internship submission | `TypeScript` | [live](https://synapse-wheat-nu.vercel.app) |
+
+## simulated
+
+| | | | |
+|---|---|---|---|
+| **[GroundStateFinder](https://github.com/kukyos/GroundStateFinder)** | searches for the ground state of a system | `Python` | |
+| **[SingularityEngine](https://github.com/kukyos/SingularityEngine)** | black hole renderer | `Python` | |
+| **[fishschooling-sim](https://github.com/kukyos/fishschooling-sim)** | emergent flocking, written in C | `C` | |
+| **[ForeHeadDetector](https://github.com/kukyos/ForeHeadDetector)** | framework for tracking a forehead, or the middle of a head | `Python` | |
+
+<div align="center"><sub><a href="https://github.com/kukyos?tab=repositories">all 40+ repos</a></sub></div>
+
+<br/>
+
+## stats
+
+<div align="center">
+
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=kukyos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&ring_color=c9d1d9&include_all_commits=true&count_private=true" alt="" />
+<img height="160" src="https://streak-stats.demolab.com/?user=kukyos&hide_border=true&background=0d1117&border=0d1117&stroke=21262d&ring=c9d1d9&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="" />
+
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kukyos&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&hide=powershell,mathematica,ruby,objective-c,cuda&size_weight=0.5&count_weight=0.5" alt="" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=kukyos&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&title_color=c9d1d9&area_color=21262d&hide_border=true&area=true" alt="" />
+
+<br/><br/>
+
+<sub><img src="https://visitor-badge.laobi.icu/badge?page_id=kukyos.kukyos&color=21262d&style=flat-square" alt="" /></sub>
+
+</div>
