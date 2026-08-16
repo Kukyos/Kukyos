@@ -17,10 +17,10 @@
 </div>
 
 ```
-I build the thing before I decide what it's called.
+i build some tuff stuff.
 
-now      agentic AI systems, simulation work
-like     problems whose answer isn't in a tutorial
+now      agentic AI systems, simulation work, and slop websites
+like     earning money, doing cool shit
              ground states, black holes, fish schooling
 built    client tooling for Blackstone Elevators
              a full hackathon platform, end to end
@@ -35,7 +35,7 @@ reach    amohamed@karunya.edu.in
 **languages**
 ```
 TypeScript   Python   C   C++   C#
-JavaScript   HTML     CSS
+JavaScript   HTML     CSS  Larp 
 ```
 
 </td><td valign="top" width="50%">
@@ -44,6 +44,8 @@ JavaScript   HTML     CSS
 ```
 React  Next.js  Tailwind  Node  Flask
 Django  Unity  Postgres  MySQL  Vercel
+
+Mostly claude though
 ```
 
 </td></tr>
