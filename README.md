@@ -88,9 +88,6 @@ Mostly claude though
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=kukyos&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&title_color=c9d1d9&area_color=21262d&hide_border=true&area=true" alt="" />
-
-<br/><br/>
 
 <sub><img src="https://visitor-badge.laobi.icu/badge?page_id=kukyos.kukyos&color=21262d&style=flat-square" alt="" /></sub>
 
