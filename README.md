@@ -4,7 +4,7 @@
 
 # A M Armaan
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=CSE+%40+Karunya+University;full-stack+%2F+AI+%2F+simulation;Special+Grade%2C+Larper" alt="" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=CSE+%40+Karunya+University;full-stack+%2F+AI+%2F+simulation" alt="" />
 
 <br/>
 
