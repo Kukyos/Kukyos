@@ -9,7 +9,7 @@
 <br/>
 
 <img src="assets/heartbeat.jpeg" width="560" alt="building shit is the reason this heart still beats" />
-
+<br><br>
 </div>
 
 ```
@@ -17,7 +17,7 @@ i build some tuff stuff.
 
 now      agentic AI systems, simulation work, and slop websites
 like     earning money, doing cool shit
-built    client tooling for Blackstone Elevators
+built    hardware tool that keeps away noisy neighbours
          a full hackathon platform, end to end
 reach    amohamed@karunya.edu.in
 ```
